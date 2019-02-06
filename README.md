@@ -28,14 +28,14 @@ Install all the dependencies need for the project
 Install Node.js on the system computer
 Navigate to the working directory and do the following in your terminal
 
-###### Step 1
-> npm init –y
->npm install mysql
->npm install inquirer
+Step 1
+* npm init –y
+* npm install mysql
+* npm install inquirer
 The above command will install all the dependencies you need
 
-###### Step 2
-> Enter node bamazonCustomer.js  to start app
+Step 2
+* Enter node bamazonCustomer.js  to start app
 
 ```
 ### Built With
