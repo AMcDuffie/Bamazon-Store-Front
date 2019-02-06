@@ -3,8 +3,10 @@ Store front application created with MySQL and Node.js
  ```
 Welcome to Bamazon, a storefront built with MySQL and Node.js. 
 
-A user can view an inventory list; choose an item they like to purchase by typing in the products ID
-along with the quantity. However, if we do not have enough of the selected item in stock, the system tells the user we are unable to fulfill their purchase, and the transaction is terminated.
+A user can view an inventory list; choose an item they like to purchase by 
+typing in the products ID along with the quantity. However, if we do not have 
+enough of the selected item in stock, the system tells the user we are unable 
+to fulfill their purchase, and the transaction is terminated.
 
 ```
 
@@ -25,6 +27,7 @@ To get started on this project, follow the installations instructions below.
 Install all the dependencies need for the project
 Install Node.js on the system computer
 Navigate to the working directory and do the following in your terminal
+
 ###### Step 1
 > npm init –y
 >npm install mysql
